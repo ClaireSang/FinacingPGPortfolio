@@ -1,0 +1,6 @@
+tensorflow==1.13.0rc1
+tflearn>=0.3.2
+pympler>=0.8
+cvxopt>=1.2.5
+seaborn>=0.10.1
+pandas==0.24.0
